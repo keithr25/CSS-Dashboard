@@ -1,0 +1,25 @@
+{
+  "name": "CSS Dashboard",
+  "authors": [
+    "keithr <keithrothschadl25@gmail.com>"
+  ],
+  "description": "CSS Dashboard Milestone Project",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "highcharts": "highcharts-release#~4.1.9"
+  }
+}
